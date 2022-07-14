@@ -99,4 +99,4 @@ print(f'8th coordinate : ({x8},{y8})')
 #    softlock is detected
 # 2. Remove unnecessary extra copy-pasted code by creating booleans that check whether certain 
 #    conditions are true or not. Loop through these conditions every cycle and regenerate if necessary.
-#    Some "while" parameters go one for 500+ columns and can be cut down.
+#    Some "while" parameters go on for 500+ columns and can be cut down.
