@@ -1,3 +1,5 @@
+# Success rate (8 coordinates) ≈ 10%
+
 import random
 
 # Declaring every variable for x an y position of corresponding queens. 
